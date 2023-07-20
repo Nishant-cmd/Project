@@ -1,0 +1,67 @@
+body {
+    margin: 0px;
+  /*  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.name {
+    
+    margin: 0px;
+    position: relative;
+    top: 40px;
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+
+ 
+}
+.pro{
+position: relative;
+top:50px ;
+font-family: 'Montserrat', sans-serif;
+}
+
+div {
+    background-color: #e4f9f4;
+    text-align: center;
+    padding: 100px;
+}
+.top-cloud{
+    position: absolute;
+   left: 875px;
+   top: 80px; 
+   
+
+}
+.bottom-cloud{
+    display:inline-block;
+    position:absolute;
+    top: 250px;
+    right: 900px;
+}
+.mount{
+    position: relative;
+    top:100px;
+}
+.photo
+{
+    position: relative;
+    left:20px;
+}
+.media{
+    position: relative;
+    bottom: 50px;
+    left: 110px;
+}
+.bottom-container{
+    height: auto;
+    position: relative;
+    bottom:200px;
+}
+.footer-link{
+    position: relative;
+    right:80px;
+}
+.last{
+    position: relative;
+    right:5px;
+}
